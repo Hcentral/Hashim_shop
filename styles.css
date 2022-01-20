@@ -22,7 +22,9 @@ body {
     margin: 0;
 }
 
-
+a{
+    text-decoration: none;
+  }
 #float-hashim img{
   width: 48px;
   height: 48px;
