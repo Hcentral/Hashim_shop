@@ -41,7 +41,7 @@ blackColor.addEventListener('click',function(){
 });
 
 redColor.addEventListener('click',function(){
-    watchImage.src='images/light-oragne.png';
+    watchImage.src='images/default.png';
     watchImage.alt="smart-watch-red";
 });
 
