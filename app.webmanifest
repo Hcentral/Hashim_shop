@@ -1,23 +1,23 @@
 {
     "name": "Hashim Shop",
-    "short_name": "Codepad",
+    "short_name": "HashimDev",
     "start_url": "./?utm_source=pwa",
-    "theme_color": "#ffc252",
+    "theme_color": "#000000",
     "scope": "./",
     "display": "standalone",
     "icons": [
         {
-            "src": "icons/icon-512.jpg",
+            "src": "icons/icon-512.png",
             "sizes": "512x512",
             "type": "image/png"
         },
         {
-            "src": "icons/icon-1024.jpg",
+            "src": "icons/icon-1024.png",
             "sizes": "1024x1024",
             "type": "image/png"
         },
         {
-            "src": "icons/icon-maskable.jpg",
+            "src": "icons/icon-maskable.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
